@@ -1,3 +1,6 @@
+# NOTE
+App works when running locally, but after deploying to Heroku, there is no access to the database, so the 'Create Todo' page submit does not translate to the 'Todos' page.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
