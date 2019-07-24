@@ -5,13 +5,17 @@ Part 1 of Todo App
 ![gif 1 of app](https://media.giphy.com/media/IcpJimzqcVrIjdfbtS/giphy.gif)
 
 Part 2 of Todo App
-[gif 2 of app](https://media.giphy.com/media/fqyPjgg3iNRGOx6LUk/giphy.gif)
+![gif 2 of app](https://media.giphy.com/media/fqyPjgg3iNRGOx6LUk/giphy.gif)
 
 Part 3 of Todo App
-[gif 3 of app](https://media.giphy.com/media/LPZQyBPjGG4jWxlStx/giphy.gif)
+![gif 3 of app](https://media.giphy.com/media/LPZQyBPjGG4jWxlStx/giphy.gif)
 
 Part 4 of Todo App
-[gif 4 of app](https://media.giphy.com/media/QVVMA3MKr9ic9utBIV/giphy.gif)
+![gif 4 of app](https://media.giphy.com/media/QVVMA3MKr9ic9utBIV/giphy.gif)
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
