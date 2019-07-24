@@ -2,7 +2,7 @@
 App works when running locally, but after deploying to Heroku, there is no access to the database, so the 'Create Todo' page submit does not translate to the 'Todos' page. The app only works once server is started.
 
 Part 1 of Todo App
-[gif 1 of app](https://media.giphy.com/media/IcpJimzqcVrIjdfbtS/giphy.gif)
+![gif 1 of app](https://media.giphy.com/media/IcpJimzqcVrIjdfbtS/giphy.gif)
 
 Part 2 of Todo App
 [gif 2 of app](https://media.giphy.com/media/fqyPjgg3iNRGOx6LUk/giphy.gif)
